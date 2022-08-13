@@ -1,0 +1,51 @@
+
+{
+
+  "question": [
+        "1] Which one of the following is not a keyword ",
+	"2] Which one of the following is  a derived datatype ?",
+	"3] Who is the founder of c language ?",
+	"4] Which of the following is the correct way of variable declaration ?"
+  ],
+
+
+  "answer": [
+    	3,
+	4,
+	1,
+	2
+  ],
+
+
+  "options": [
+[
+	" enum",
+	" goto",
+	"pointer",
+	" case"
+    ],
+  
+  [
+        "int ",
+        " double",
+	"unsigned short int  ",
+	"array "
+    ],
+
+    [
+	"Dennis Ritchie  ",
+	" James Gosling",
+	"Yashavant Kanetkar  ",
+	" Herbert Schildt "
+    ],
+
+    [
+	" Var1",
+	" var2 ",
+	"3var ",
+	" var@4"
+    ]
+
+    ]
+
+}
